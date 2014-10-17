@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[khy:home|Door43 (khy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-khy|d43-khy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-khy/archive/master.zip|d43-khy.zip]]
+
+**Recent Changes**
+{{changes>ns = khy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/khy|Ethnologue data]]
+
